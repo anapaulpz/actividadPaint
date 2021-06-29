@@ -14,6 +14,9 @@ from turtle import *
 
 from freegames import vector
 
+"""
+    Comentario por Francisco Vázquez
+"""
 
 def line(start, end):
     "Draw line from start to end."
