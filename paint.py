@@ -18,6 +18,9 @@ from freegames import vector
     Comentario por Francisco Vázquez
 """
 
+"Comentario por Ana Paula López"
+
+
 def line(start, end):
     "Draw line from start to end."
     up()
