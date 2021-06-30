@@ -1,5 +1,11 @@
 """Paint, for drawing shapes.
 
+Equipo 2:
+Francisco Vázquez, A00827546
+Nicolás Herrera, A01114972
+Ana Paula López, A01378255
+
+
 Exercises
 
 1. Add a color.
