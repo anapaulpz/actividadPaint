@@ -18,7 +18,7 @@ from freegames import vector
     Comentario por Francisco Vázquez
 """
 
-"Comentario por Ana Paula López"
+"Comentario por Ana Paula López."
 
 
 def line(start, end):
